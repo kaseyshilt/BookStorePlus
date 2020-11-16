@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStorePlus.UI.MVC", "..\..\..\..\..\source\repos\BookStorePlus.UI.MVC\BookStorePlus.UI.MVC.csproj", "{68C41165-35B8-407D-AAEC-7F1A17BF0038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C41165-35B8-407D-AAEC-7F1A17BF0038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C41165-35B8-407D-AAEC-7F1A17BF0038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C41165-35B8-407D-AAEC-7F1A17BF0038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C41165-35B8-407D-AAEC-7F1A17BF0038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACC6AD8-97B7-4FED-9804-A10D0575297F}
+	EndGlobalSection
+EndGlobal
